@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paawan13
+- 👋 Hi, I’m Paawan Purdhani
 - 👀 I’m interested in Data Analysis, Data Science and Machine Learning
 - 👨‍💻 Programming Languages: Python(Pandas,Numpy,Matplotlib,Seaborn,Bokeh,Scikit-Learn),SQL,Matlab,Scilab,Octave,C,Arduino
 - 🌱 I’m currently learning Data Science
