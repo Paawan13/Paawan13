@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paawan Purdhani
 - 👀 I’m interested in Data Analysis, Data Science and Machine Learning
-- 👨‍💻 Programming Languages: Python(Pandas,Numpy,Matplotlib,Seaborn,Bokeh,Scikit-Learn),SQL,Matlab,Scilab,Octave,C,Arduino
+- 👨‍💻 Programming Languages: Python(Pandas,Numpy,Matplotlib,Seaborn,Bokeh,Scikit-Learn,opencv,scikit-image),SQL,Matlab,Scilab,Octave,C,Arduino
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me email: paawanpurdhani@gmail.com
