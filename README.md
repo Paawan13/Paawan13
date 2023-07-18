@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Paawan Purdhani
-- 👀 An AI Developer at CCS Computers
+- 👀 AI Developer at CCS Computers
+- ✨ Interested and Experienced in ML, Research and Neural Networks
 - 📫 How to reach me email: paawanpurdhani@gmail.com
 
 <!---
