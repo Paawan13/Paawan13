@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paawan Purdhani
-- 📛 AI Developer @ CCS Computers
+- 📛 AI Developer @HCLTech
 - 📕 Bachelors in Electronics and Computer Science @ DU
 - 👨‍🔬 Research : https://ijeecs.iaescore.com/index.php/IJEECS/article/view/31189
 - 🧠 Interested and Experienced in ML, Research and Neural Networks
