@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Paawan Purdhani
-- 📛 AI Developer @HCLTech
-- 📕 Bachelors in Electronics and Computer Science @ DU
+- 📛 AI Dev and Trainer
 - 👨‍🔬 Research : https://ijeecs.iaescore.com/index.php/IJEECS/article/view/31189
-- 🧠 Interested and Experienced in ML, Research and Neural Networks
-- ☁️ Former Cloud Engineering Intern @ Team Computers
-- ⚽ Former Professional Fotballer @ Conscient Football
 - 📧 paawanpurdhani@gmail.com
 
 <!---
